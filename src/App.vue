@@ -1,4 +1,5 @@
 <template>
+  <p>컴포넌트 만들기 시작</p>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
